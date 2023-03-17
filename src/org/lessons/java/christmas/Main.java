@@ -24,7 +24,7 @@ public class Main {
 
 			   //CONDIZIONE IF
             if(scelta.equals("yes")) {
-                System.out.println("Quale desideri vuoi aggiungere?");
+                System.out.println("Quale desiderio vuoi aggiungere?");
                 String desiderio= s.nextLine();
                 wishList.add(desiderio);
             }
